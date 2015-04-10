@@ -46,7 +46,7 @@ IndexClass = React.createClass
 
             p
               className: 'point big'
-              'We are Phoenix’s 3D printing community. We made up of both experts and novices. Attend our regular events and take part in the collective shared 3D printing knowledge.'
+              'We are Phoenix’s 3D printing community. We are made up of both experts and novices. Attend our regular events and take part in the collective shared 3D printing knowledge.'
 
           div className: 'break'
 
