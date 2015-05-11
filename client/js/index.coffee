@@ -106,8 +106,6 @@ IndexClass = React.createClass
 
 
 
-
-
       div className: 'spacer'
 
 
@@ -122,6 +120,7 @@ element = document.getElementById 'content'
 React.render App, element
 
 
+# YE
 
 
 
