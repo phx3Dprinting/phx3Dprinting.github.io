@@ -73,7 +73,7 @@ IndexClass = React.createClass
 
             p
               className: 'point'
-              '7:00pm to 10pm'
+              '7pm to 10pm'
 
           div className: 'break'
           div className: 'row',
